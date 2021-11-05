@@ -1,0 +1,16 @@
+Pseudocode fibonacci bilangan deret 30
+
+1).Input ({[a] =0,[b] =1})
+2).Output ( [a],[b])
+3).[c] =[a] + [b]
+4).[b]= a, [c]= b
+5).Write [b]
+6).Repeat step 3-5 until i=30
+7).End
+
+Langkah-langkah Pseudocode
+1). Masukan bilangan 0 dan 1 sebagai deret pertama dan kedua
+2). Tambahkan angka deret terakhir dengan deret sebelumnya
+3). Setelah mendapatkan hasil tulis hasil tersebut ke deret terakhir yang baru
+4). Ulangi langkah ke 2 dan 3 sampai deret ke 30
+5). Tampilkan hasil dari deret pertama sampai deret ke 30 
