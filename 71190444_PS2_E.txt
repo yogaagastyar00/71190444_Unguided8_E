@@ -1,0 +1,12 @@
+Jawabannya adalah Gelas nomor 2 karena terlihat 
+dari saluran yang mengarah ke gelas nomor 2 letaknya 
+lebih rendah dari saluran yang mengarah ke gelas 
+nomor 6 jadi karena itu saya berasumsi gelas nomor 2 akan 
+terlebih dahulu berisi air dan juga saluran yang mengarah 
+ke gelas nomor 3 dan saluran yang mengarah ke gelas nomor 1 
+juga tertutup jadi gelas nomor 2 akan lebih dahulu berisi air.
+
+Sedangkan saluran yang mengarah ke gelas nomor 6 itu letaknya 
+lebih tinggi jadi perlu waktu untuk air mencapai ketinggian itu 
+dan juga selang yang mengarah ke gelas no 7 juga letaknya lebih 
+tinggi jadi butuh waktu juga.
