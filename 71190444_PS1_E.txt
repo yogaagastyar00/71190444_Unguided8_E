@@ -1,0 +1,17 @@
+Rumusnya saya menggunakan Sx = x/2 (2a + (x-1) b)
+
+a1 = 1021
+b2 = 1022 
+ 
+c = a2 - a1
+d = 1022 - 1021 = 1
+
+Sx = a + (x-1) b
+3020 = 1021 + n - 1
+x = 3020 - 1020 
+x = 2000
+jadi nilai tengahnya 2000
+
+S2000 didapat dari rumus = 2000/2 * (2(1020) + (2000 - 1) * 1 )
+S2030 didapat dari rumus = 1000 * (2042 + (1999))
+lalu 1000 * 4041 lalu hasilnya 4.041.000
